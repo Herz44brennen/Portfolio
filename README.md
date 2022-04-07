@@ -1,2 +1,1 @@
-# Portfolio
-Portfolio projektowe
+Projekt 1-Analiza świata skoczków narciarskich. Od czego zalezy długośc skoku narciarskiego?
